@@ -1,4 +1,4 @@
-Mars is red and hot.
+Mars is very red and hot.
 blablablablablabla
 track this change
 yet another new line!
